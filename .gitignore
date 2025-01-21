@@ -1,0 +1,3 @@
+# ignore log files
+scan_report.log
+scan_resources.log
